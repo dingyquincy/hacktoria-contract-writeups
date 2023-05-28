@@ -1,2 +1,2 @@
-# hacktoria-contract-writeups
-Writeups for Hacktoria contracts
+# practice-ctf-writeups
+Writeups for CTF challenges
