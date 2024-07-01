@@ -67,6 +67,6 @@ The fully translated text:
 
 > J!FQW'EU!ITN!VX,CM'QW!RE'IR,JL!D
 
-The password didn't work initially, so I tried converting all the uppercase letters to lowercase. This gave me the correct password:
+The password didn't work initially, so I tried using all lowercase letters instead. This gave me the correct password:
 
 > j!fqw'eu!itn!vx,cm'qw!re'ir,jl!d
